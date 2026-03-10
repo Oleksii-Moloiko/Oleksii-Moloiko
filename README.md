@@ -44,7 +44,7 @@ My goal is to become a professional developer and work in a strong IT team.
 
 ## 📫 Contact Me
 
-* GitHub:(https://github.com/Oleksii-Moloiko)
+* GitHub:https://github.com/Oleksii-Moloiko
 * Email: oleksiimoloiko@gmail.com
 * LinkedIn: www.linkedin.com/in/oleksii-moloiko-35291a3b0
 
