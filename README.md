@@ -1,76 +1,48 @@
-# Hi, I'm Oleksii 👋
+# 👋 Hi, I'm Oleksii
 
-💻 **Junior Python Developer | Data Science & Machine Learning**
-I am actively learning Python and building projects in data analysis and machine learning.
-My goal is to become a professional developer and work in a strong IT team.
+Backend-focused developer with experience in building production-style APIs using FastAPI, PostgreSQL, and modern backend architecture patterns.
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Project
 
-* 🌱 Currently learning **Python, Data Science and Machine Learning**
-* 📊 Interested in **data analysis and real-world datasets**
-* 🛠 Building **pet-projects to improve my skills**
-* 🎯 Goal: **start a career in IT as a Python Developer / Data Scientist**
+### 🔥 Job Tracker API
+Production-style backend for tracking job applications and hiring pipeline performance.
 
----
+- JWT authentication (access + refresh tokens)
+- Filtering, search, sorting, pagination
+- Analytics (conversion rates)
+- Clean architecture (router / service / repository)
+- Docker, CI, tests
 
-## 🧰 Tech Skills
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### Programming & Data Analysis
-Python, NumPy, Pandas  
-Exploratory Data Analysis (EDA)  
-Data cleaning & feature engineering  
-Data visualization (Matplotlib)
-
-### Machine Learning
-Supervised learning (classification)  
-Model evaluation metrics  
-Overfitting control  
-
-### Unsupervised Learning
-Clustering  
-Dimensionality reduction
-
-### Deep Learning
-TensorFlow  
-Keras
-
-### Databases
-SQL (joins, aggregations, subqueries)  
-MongoDB
+👉 https://github.com/Oleksii-Moloiko/job-tracker-api
 
 ---
 
-## 🎯 Current Focus
+## 🛠 Tech Stack
 
-🚀 **What I'm focusing on right now**
-
-- 🐍 Strengthening my **Python programming skills**
-- 🤖 Learning **Machine Learning fundamentals and algorithms**
-- 📊 Practicing **data analysis with Pandas, NumPy and real datasets**
-- 🛠 Building **portfolio projects for my GitHub**
-
-💡 *My goal is to grow into a strong Python / Data Science developer and start a professional career in IT.*
-
----
-
-## 📫 Contact Me
-
-* GitHub:https://github.com/Oleksii-Moloiko
-* Email: oleksiimoloiko@gmail.com
-* LinkedIn: www.linkedin.com/in/oleksii-moloiko-35291a3b0
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Docker
+- GitHub Actions
+- Machine Learning (scikit-learn, TensorFlow)
 
 ---
 
-⭐ *Always open to learning, collaboration, and new opportunities.*
+## 📈 What I'm focused on
+
+- Backend development
+- API design
+- Clean architecture
+- Production-ready systems
+
+---
+
+## 📫 Contact
+
+Open to backend opportunities
+
+---
+
