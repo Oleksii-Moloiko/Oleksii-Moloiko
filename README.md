@@ -1,33 +1,28 @@
-# 👋 Hi, I'm Oleksii
+# Hi, I'm Oleksii 👋
 
-Aspiring Data Analyst with a backend development background.
-I work with Python, SQL, and visualization tools to turn raw data into insights.
+**Backend Developer · FastAPI · PostgreSQL · Python**
 
----
-
-## 📊 Data Projects
-
-### 📚 Books Data Analysis (books-scraper)
-- Scraped ~1000 books, cleaned data, built charts
-- Tools: Python, SQLite, pandas, matplotlib
-
-### 👗 Fashion MNIST – Image Classification
-- Built and trained CNN model, evaluated accuracy
-- Tools: TensorFlow, Streamlit
-
-### 💼 Job Market Analytics (job-tracker-api)
-- Analytics on hiring pipeline: conversion rates, funnel metrics
-- Tools: FastAPI, PostgreSQL, SQL queries
+I build production-ready backend systems — APIs with clean architecture, auth, Docker, and tests included. Currently open to backend opportunities.
 
 ---
 
-## 🛠 Skills
-- **Analysis:** pandas, numpy, matplotlib, seaborn
-- **Databases:** PostgreSQL, SQLite, SQL
-- **ML basics:** scikit-learn, TensorFlow
-- **Other:** Python, Docker, Git
+## Tech stack
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Redis` `Celery` `scikit-learn` `GitHub Actions` `pytest`
 
 ---
 
-## 🎯 Looking for
-Junior Data Analyst / Data Analyst Intern positions
+## Featured projects
+
+| Project | Description |
+|---|---|
+| 🚗 [car-price-ml](https://github.com/Oleksii-Moloiko/car-price-ml) | ML API for used car price prediction · SHAP explainability · FastAPI · Docker · CI/CD |
+| ⚙️ [taskflow-api](https://github.com/Oleksii-Moloiko/taskflow-api) | Task management SaaS backend · JWT · PostgreSQL · Redis · Celery · Docker · tests |
+| 📉 [churn-prediction](https://github.com/Oleksii-Moloiko/churn-prediction) | Churn prediction · EDA · recall-focused ML · FastAPI inference · Dockerized deployment |
+| 🔍 [smart-task-manager-api](https://github.com/Oleksii-Moloiko/smart-task-manager-api) | FastAPI backend · JWT auth · RBAC · PostgreSQL · Docker · pytest |
+
+---
+
+## Contact
+
+📍 Chernihiv, Ukraine · Open to backend roles · [LinkedIn](https://www.linkedin.com/in/oleksii-moloiko/) · [Telegram](@moloiko)
